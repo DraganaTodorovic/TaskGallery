@@ -1,4 +1,3 @@
-"# TaskGallery" 
 
 # Gallery-App Testing
 
