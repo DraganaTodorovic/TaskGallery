@@ -24,9 +24,6 @@
 * Automated tests for 4a with test "logout_tests".
 * I wrote Test Suite by name "test_suite" which contains this automated test cases. Test suite is found in "GalleryAppTesting\tests" .
 
-* During testing I used credentials:
-username: gallery_app_test@yahoo.com
-password: Test12345
 
 ## Running tests for UI testing
 
